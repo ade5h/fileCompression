@@ -1,2 +1,1 @@
-# CBHuffman
-CB Huffman
+# Compressing text files using Huffman Compression
